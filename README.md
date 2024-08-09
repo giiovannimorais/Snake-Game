@@ -1,0 +1,1 @@
+The concept behind Snake games is much older than many people think. Before appearing on Nokia phones in 1997, the first game with this idea appeared in 1976, and practically created this genre in a worm/snake that eats dots and gets bigger and bigger.
